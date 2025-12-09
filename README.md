@@ -11,6 +11,13 @@ Los materiales utilizados se basan en EPS32 SteamMaker, tarjetas Micro:bit, y co
 [Miniproyectos con kit Smart Home con ESP32](https://carmenguidet.github.io/experimenta/esp32/)
 
 ##  Miniproyectos
+### Con tarjeta micro:bit
+[Miniproyectos con micro:bit](https://github.com/teleco-te-renta/proyectos-microbit)
+
+### Con tarjeta ESP32 SteaMaker
+[Miniproyectos con ESP32 SteaMaker]([https://github.com/teleco-te-renta/proyectos-microbit](https://github.com/teleco-te-renta/proyectos-esp32)
+
+### Temáticos
 *Próximamente.*
 
 ![Logotipos del proyecto CAERUS / TelecoRenta](logotipos-teleco-renta.png)
