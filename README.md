@@ -17,8 +17,9 @@ Los materiales utilizados se basan en EPS32 SteamMaker, tarjetas Micro:bit, y co
 ### Con tarjeta ESP32 SteaMaker
 [Miniproyectos con ESP32 SteaMaker]([https://github.com/teleco-te-renta/proyectos-microbit](https://github.com/teleco-te-renta/proyectos-esp32)
 
-### Temáticos
-*Próximamente.*
+### Proyectos aplicados con micro:bit y conceptos de telecomunicación
+Proyectos aplicados a resolver problemas del día a día.
+[La aventura de la tecnología](https://teleco-te-renta.github.io/)
 
 ![Logotipos del proyecto CAERUS / TelecoRenta](logotipos-teleco-renta.png)
 
